@@ -1,4 +1,2 @@
 # Web Site under Construction
-
-
--Rishan Backer-
+Rishan Backer
